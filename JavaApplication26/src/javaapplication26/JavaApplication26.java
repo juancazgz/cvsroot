@@ -15,5 +15,7 @@ public class JavaApplication26 {
      */
     public static void main(String[] args) {
         System.out.println("Espero que funcione");
+        System.out.println("1 ha funcionado");
+        
     }
 }
